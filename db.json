@@ -1,0 +1,404 @@
+{
+"stats": [
+{
+"timestamp": 1586354400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586358000,
+"traffic_types": {
+"earned": 1,
+"seed": 0,
+"total": 1
+}
+},
+{
+"timestamp": 1586361600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586365200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586368800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586372400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586376000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586379600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586383200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586386800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586390400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586394000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586397600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586401200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586404800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586408400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586412000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586415600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586419200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586422800,
+"traffic_types": {
+"earned": 0,
+"seed": 599,
+"total": 1000
+}
+},
+{
+"timestamp": 1586426400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586430000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 1000
+}
+},
+{
+"timestamp": 1586433600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586437200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586440800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586444400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586448000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586451600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586455200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586458800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586462400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586466000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586469600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586473200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586476800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586480400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586484000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586487600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586491200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586494800,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586498400,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586502000,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586505600,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+},
+{
+"timestamp": 1586509200,
+"traffic_types": {
+"earned": 0,
+"seed": 1,
+"total": 1
+}
+},
+{
+"timestamp": 1586512800,
+"traffic_types": {
+"earned": 111,
+"seed": 582,
+"total": 693
+}
+},
+{
+"timestamp": 1586516400,
+"traffic_types": {
+"earned": 3,
+"seed": 456,
+"total": 459
+}
+},
+{
+"timestamp": 1586520000,
+"traffic_types": {
+"earned": 4,
+"seed": 0,
+"total": 4
+}
+},
+{
+"timestamp": 1586523600,
+"traffic_types": {
+"earned": 7,
+"seed": 0,
+"total": 7
+}
+},
+{
+"timestamp": 1586527200,
+"traffic_types": {
+"earned": 0,
+"seed": 0,
+"total": 0
+}
+}
+],
+"metadata": {
+"region": "GLOBAL",
+"dimension": "category|region:global|author:ivan_kwok123",
+"start_ts": 1586354400,
+"end_ts": 1586527200,
+"granularity": "hour",
+"author": "ivan_kwok123"
+}
+}
